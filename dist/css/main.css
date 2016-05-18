@@ -1,0 +1,88 @@
+body {
+	color: #F2EDEB;
+	font-family: "Times New Roman";
+	font-size: 16px;
+	line-height: 30px;}
+
+html {
+  height:100%;
+  width:100%}
+
+p {
+  font-family: Verdana;
+text-indent: 50px;}
+
+h1 {
+  font-family: Verdana;
+	font-size: 50px;
+color: #F2EDEB;
+text-align: center;}
+
+h2 {
+  font-family: Verdana;
+	font-size: 36px;
+color: #F2EDEB;
+text-align: center;}
+
+h3 {
+  font-family: Verdana;
+	color: #F2EDEB;
+text-align: center;}
+
+h4 {
+  font-family: Verdana;
+font-size: 14px;
+text-align: center;}
+
+#bluebg { 
+  background-color: #CCCECF;
+  background-image: url(../../images/blue20.jpg);
+  background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+    background-size: cover;
+      color: #F2EDEB;}
+
+
+.mesh {background-color: rgba(0,0,0,0.2);}
+
+.nav {background-color: rgba(0,0,0,0);}
+.nav > li > a:hover {
+color: white;
+background-color: rgba(171,200,209,0.2)}
+.nav > li > a {
+color: #F2EDEB;
+font-family: Verdana;
+font-size: 14px;}
+.nav-pills > li.active > a,
+ .nav-pills > li.active > a:hover {
+color: white;
+background-color: rgba(171,200,209,0);}
+.wide_nav {margin-bottom: -18px;}
+
+#leadshot {display: block;
+margin-right: auto;
+margin-left: auto;}
+
+.credit {text-align: left;
+font-size: 12px;}
+
+.jumpernav {
+  font-family: Verdana;
+  font-size: 14px;
+  color: #F2EDEB;
+  position: relative;
+  text-align: center;
+}
+.jumpernav >a {
+  font-family: Verdana;
+  font-size: 14px;
+  color: #F2EDEB;
+}
+
+
+
+
